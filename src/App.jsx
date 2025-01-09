@@ -1,9 +1,9 @@
-import TShirtDesigner from "./components/TShirtDesigner";
+import CustomTable from "./components/CustomTable";
 
 function App() {
   return (
     <>
-      <TShirtDesigner />
+      <CustomTable />
     </>
   );
 }
